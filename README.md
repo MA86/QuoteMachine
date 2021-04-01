@@ -6,5 +6,5 @@ CSS (Animate, Font Awesome, Bootstrap), JavaScript (React, JSX).
 
 # Demonstration:
 ### Coming Soon
-To see this application in action, click on this [link]().
+To see this application in action, click on this [link](https://ma86.github.io/QuoteMachine/).
 ### Coming Soon
