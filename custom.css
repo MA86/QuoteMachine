@@ -1,0 +1,42 @@
+/* Custom CSS styles */
+
+#quote-box {
+  margin: 220px 10% auto 10%;
+}
+
+#text-div {
+  font-family: "Patua One", cursive;
+  font-size: 40px;
+  font-weight: bolder;
+  text-align: center;
+}
+
+#author-div {
+  font-size: 20px;
+  font-weight: normal;
+  text-align: center;
+}
+
+#button-div {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#twitter-size {
+  font-size: 50px;
+}
+
+#button-div {
+  margin: 15px auto auto auto;
+}
+
+#new-quote {
+  height: 42px;
+  align-self: center;
+}
+/* To get rid of the dotted lines after click, around twitter logo */
+a,
+a:active,
+a:focus {
+  outline: none;
+}
